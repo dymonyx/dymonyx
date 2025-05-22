@@ -14,6 +14,6 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔧 **API-weather app** | FastAPI + Python + Jenkins + ansible + k8s project — [GitHub Repo](https://github.com/dymonyx/api-weather-app) |
+| [**API-weather app**](https://github.com/dymonyx/api-weather-app) | FastAPI + Python + Jenkins + ansible + k8s project |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dymonyx&show_icons=true&locale=en&layout=compact" alt="dymonyx" /></p>
