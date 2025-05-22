@@ -14,6 +14,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**API-weather app**](https://github.com/dymonyx/api-weather-app) | FastAPI + Python + Jenkins + ansible + k8s project |
+| [**API-weather app**](https://github.com/dymonyx/api-weather-app) | FastAPI, Python, Jenkins, ansible, k8s project |
+| [**entransity**](https://github.com/dymonyx/entransity) | IDEF0, IDEF3, BPMN, DFD, UML, Figma |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dymonyx&show_icons=true&locale=en&layout=compact" alt="dymonyx" /></p>
