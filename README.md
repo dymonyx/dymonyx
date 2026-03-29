@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">A DevOps engineer from Russia, passionate about k8s, automation, and IaC.</h3>
 
-- 🔭 I’m currently working on Iac project with ansible.
+- 🔭 I’m currently working on monitoring and observability project.
 
 - 📫 How to reach me: **lapshina.study@mail.ru**
 
