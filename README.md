@@ -15,7 +15,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [**k8s sre observability**](https://github.com/dymonyx/k8s-sre-observability) [project board](https://github.com/users/dymonyx/projects/5) | Go, Docker, Kubernetes, Prometheus, Grafana, Alertmanager, Helm, k6, SLI/SLO project |
+| [**k8s sre observability**](https://github.com/dymonyx/k8s-sre-observability) | [project board](https://github.com/users/dymonyx/projects/5) | Go, Docker, Kubernetes, Prometheus, Grafana, Alertmanager, Helm, k6, SLI/SLO project |
 | [**API-weather app**](https://github.com/dymonyx/api-weather-app) | FastAPI, Python, Jenkins, Ansible, Kubernetes project |
 | [**entransity**](https://github.com/dymonyx/entransity) | IDEF0, IDEF3, BPMN, DFD, UML, Figma |
 
