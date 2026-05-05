@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yulia</h1>
 <h3 align="center">A DevOps engineer from Russia, passionate about k8s, automation, and IaC.</h3>
 
-- 🔭 I’m currently working on monitoring and observability project.
+- 🔭 I’m currently working on monitoring and observability project of chainwise app.
 
 - 📫 How to reach me: **lapshina.study@mail.ru**
 
